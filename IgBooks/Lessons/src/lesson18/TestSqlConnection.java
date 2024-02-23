@@ -35,6 +35,7 @@ public class TestSqlConnection {
                     t = t.getCause();
                 }
                 ex = ex.getNextException();
+                //
             }
         }
     }
