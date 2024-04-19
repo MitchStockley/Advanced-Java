@@ -9,7 +9,7 @@ import java.util.Properties;
 
 public class ListMovies {
     private static Properties properties = new Properties();
-
+//String test
     static {
         try (InputStream input = new FileInputStream("config.properties")) {
             properties.load(input);
