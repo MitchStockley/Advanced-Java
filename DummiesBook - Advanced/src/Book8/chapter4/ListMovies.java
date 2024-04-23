@@ -1,4 +1,4 @@
-package Book8.chapter3;
+package Book8.chapter4;
 //connecting java programme to a database
 import java.io.FileInputStream;
 import java.io.IOException;

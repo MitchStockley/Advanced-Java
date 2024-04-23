@@ -1,5 +1,5 @@
 <?xml version='1.0'?>
-<!DOCTYPE Movies SYSTEM "movies.dtd">
+<!DOCTYPE Movies SYSTEM "C:\Users\Mitch\Documents\Bootcamp Code\Advanced Java\DummiesBook - Advanced\movies.dtd">
 <Movies>
     <Movie year="1946">
         <Title>It's a Wonderful Life</Title>
